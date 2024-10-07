@@ -1,10 +1,16 @@
 .heading {
     background-color: #e62f0e;
     text-align: center;
-    margin-top: -10px;
-    padding: 20px;
+    margin: -20px;
+    padding: 30px;
     height: 50px;
-    width: 1300px;
+    width: 100%;
+}
+
+
+body,
+html {
+    margin: 0px;
 }
 
 .HeadingText {
@@ -19,6 +25,7 @@
     padding-top: 10px;
     padding-left: 20px;
     margin-left: 30px;
+    margin-top: 20px;
 }
 
 #footer {
@@ -27,7 +34,7 @@
     margin-top: 400px;
     padding: 20px;
     position: absolute;
-    width: 1280px;
+    width: 100%;
 }
 
 .FooterText {
