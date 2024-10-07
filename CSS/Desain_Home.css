@@ -1,0 +1,35 @@
+.heading {
+    background-color: #e62f0e;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+
+.HeadingText {
+    color: white;
+}
+
+.card {
+    background-color: white;
+    border: opx;
+    width: 1250px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-left: 30px;
+}
+
+#footer {
+    background-color: #3a1c0b;
+    text-align: center;
+    margin-top: 400px;
+    padding: 20px;
+    position: absolute;
+    width: 1280px;
+}
+
+.FooterText {
+    color: white;
+    font-family: arial;
+    font-weight: 400;
+}
